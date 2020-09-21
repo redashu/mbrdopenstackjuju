@@ -2,6 +2,6 @@
 
 ```
 sudo apt update -y
-sudo apt qemu-kvm libvirt-daemon-system
+sudo apt install qemu-kvm libvirt-daemon-system -y
 ```
 
