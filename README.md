@@ -52,3 +52,7 @@
 <img src="lxdinit.png">
 
 
+## starting container with lxc client 
+
+<img src="lxcstart.png">
+
