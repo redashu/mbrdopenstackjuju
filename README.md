@@ -66,3 +66,20 @@
 ## remove if existing version we have 
 
 <img src="lxdpurge.png">
+
+## configuration of lxd 
+
+<img src="lxdini.png">
+
+##  creating external storage pool  (optional)
+
+<img src="extpool.png">
+
+## create and attach storage pool to lxd via lxc
+
+<img src="attachpool.png">
+
+## configure lxd bridge in custom way 
+
+<img src="bridge.png">
+
