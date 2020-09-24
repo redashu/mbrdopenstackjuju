@@ -56,3 +56,13 @@
 
 <img src="lxcstart.png">
 
+
+# Installing OPenstack on LXD
+
+## setting kernel parameter for better user space performance 
+
+<img src="kerneltune.png">
+
+## remove if existing version we have 
+
+<img src="lxdpurge.png">
