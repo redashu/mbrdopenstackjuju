@@ -20,3 +20,7 @@
 
 <img src="jujucontroller.png">
 
+## checking juju controller is running 
+
+<img src="jujucheck.png">
+
