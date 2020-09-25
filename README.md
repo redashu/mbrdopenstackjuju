@@ -24,3 +24,7 @@
 
 <img src="jujucheck.png">
 
+# Openstack service accessing from cli 
+
+<img src="loginsrc.png">
+
